@@ -30,6 +30,7 @@ def compress(s):
     cnt = 1
     i = 1
     
+    #while loop 
     while i < l:
         
         # Check to see if it is the same letter
